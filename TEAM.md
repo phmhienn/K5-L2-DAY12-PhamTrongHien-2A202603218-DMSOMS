@@ -2,9 +2,9 @@
 
 Mã bộ ảnh: **G09** · Hình thức: **cá nhân**
 
-| Họ tên          | MSSV        | Đã gán đủ 22 ảnh? | Review chéo với (peer diff)                | Số dòng disagreement đã xử lý               |
-| --------------- | ----------- | ----------------- | ------------------------------------------ | ------------------------------------------- |
-| Phạm Trọng Hiện | 2A202603218 | Có                | Hà Thanh Tùng (chưa xác nhận cùng ảnh gốc) | 5 dòng đã điền trong `disagreement_log.csv` |
+| Họ tên          | MSSV        | Đã gán đủ 22 ảnh? | Review chéo với (peer diff) | Số dòng disagreement đã xử lý               |
+| --------------- | ----------- | ----------------- | --------------------------- | ------------------------------------------- |
+| Phạm Trọng Hiện | 2A202603218 | Có                | Hà Thanh Tùng - 2A202603036 | 5 dòng đã điền trong `disagreement_log.csv` |
 
 Ca để trao đổi với coach nếu cần
 
