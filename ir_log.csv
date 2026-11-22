@@ -1,0 +1,5 @@
+﻿frame_id,source,phenomenon,affected_field,effect_on_label
+S03_ir,IR_sim,Bản gán RGB và IR mô phỏng đều có hai đồ vật và một ghế em bé.,"object, infant_seat","Số box theo từng loại giữ nguyên giữa hai bản gán.""
+S07_ir,IR_sim,Bản gán RGB và IR mô phỏng đều có ghế trẻ em,"child_seat","Số box đánh đúng theo các bản"
+D02,real_IR,"Ảnh tối và hai tay khoanh che ngực nên không thấy dải dây an toàn","seatbelt","đánh unknown"
+D06,real_IR,"Ảnh không nhìn rõ mắt","face13","outside cả 2 mắt vì không thấy rõ"
